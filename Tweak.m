@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 
-static NSString * const kRedditClientID = @"CLIENT_ID_GOES_HERE";
+static NSString * const kRedditClientID = @"nPzUPF0HARYi0sg4uNHUKQ";
 static NSString * const kImgurClientID = @"IMGUR_CLIENT_ID_GOES_HERE";
 static NSString * const kImgurRapidAPIKey = @"RAPID_API_KEY_GOES_HERE";
 
